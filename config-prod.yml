@@ -1,2 +1,2 @@
 github_config:
-  ports: github_config,rabbitmq与bus总线，version=2
+  ports: github_config,rabbitmq与bus总线，version=3
