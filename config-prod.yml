@@ -1,2 +1,2 @@
-server:
-  port: 3344
+servers:
+  ports: 3344
