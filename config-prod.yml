@@ -1,2 +1,2 @@
 servers:
-  ports: 3344
+  ports: 3344,version=2
